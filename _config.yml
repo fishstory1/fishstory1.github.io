@@ -5,7 +5,7 @@ markdown: redcarpet
 # 作者信息
 author: 
   name: Since when
-  email: 838348914@qq.com
+  email: 83834@qq.com
   link: http://anfishstory.com
   weibo: http://weibo.com/711231978
   github: http://github.com/fishstory1
@@ -25,7 +25,7 @@ favicon: /public/img/deer5.png
 # google analytics 设置
 ga:
   id: UA-54262064-1 
-  url: painterlin.com
+  url: https://gitbim.cn
 
 # disqus 设置
 disqus:
