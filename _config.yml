@@ -40,3 +40,11 @@ locals:
   about: 关于
   newest: 最新文章
   archive: 归档
+
+
+
+# 宣告一个新的集合叫 books
+collections:
+  books:
+    output: true # 告诉 Jekyll 把里面的每篇 md 都渲染成独立的 HTML 网页
+    permalink: /books/:title/ # 优雅的 URL 结构，例如 gitbim.cn/books/sapiens/
