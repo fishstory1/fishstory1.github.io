@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 读书笔记
-category: Gitfun
-tags: Gitfun
+category: 学习
+tags: 学习
 keywords: 
 description: 
 ---
